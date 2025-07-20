@@ -1,0 +1,308 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "transparency8": {
+        "data": "hwQIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile8": {
+        "data": "hwQIAAgAAAAR//8f8Rln958RefcfGWH3Hxlh958ReffxGWf3Ef//Hw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "TundraBush"
+    },
+    "tile9": {
+        "data": "hwQIAAgAAAAREREZEZEREREZERERGREREZERGRkRkREZEZERGRGREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "TundraGround"
+    },
+    "tile10": {
+        "data": "hwQIAAgAAAAR793eEe/d3hHf7d0R793e8e3d3hHf7d0R793eEe/d3g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "TundraCliffTop"
+    },
+    "tile11": {
+        "data": "hwQIAAgAAADd7d3e3e3d3t3e7d3d7d3e3e3d3t3e7d3d7d3e3e3d3g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "TundraCliff"
+    },
+    "tile12": {
+        "data": "hwQIAAgAAAAR//8f8e7u/vHu7v4R/+7+Ee/u/xHv/v4R8e7+ERH/Hw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "TundraRock"
+    },
+    "tile13": {
+        "data": "hwQIAAgAAAAREfH/ERGf+RHxEfkR8RH5EfER+RHxEfkREZ/5ERHx/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "TundraClump"
+    },
+    "tile14": {
+        "data": "hwQIAAgAAACRGZkRmZEZERmZEZGRGRGZmRGRGRkRmZERkRmZEZmRGQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "FrozenWater"
+    },
+    "tile1": {
+        "data": "hwQIAAgAAAB3//9/93Zn9293dvd/dmf3f3Zn9293dvf3dmf3d///fw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsBush"
+    },
+    "tile2": {
+        "data": "hwQIAAgAAAB3d2d2d2Z3d3Z3d3Z3d3d3Z3dmd3d3d3dndnd3d3d3Zg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsGround"
+    },
+    "tile3": {
+        "data": "hwQIAAgAAAB3T+7kd0/u5HfvTu53T+7k907u5HfvTu53T+7kd0/u5A==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsCliffTop"
+    },
+    "tile4": {
+        "data": "hwQIAAgAAADuTu7k7k7u5O7kTu7uTu7k7k7u5O7kTu7uTu7k7k7u5A==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsCliff"
+    },
+    "tile5": {
+        "data": "hwQIAAgAAAB39/9/d7+7+/f7u/v3u7v797u7+/e/+//3u7v/d///fw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsRock"
+    },
+    "tile6": {
+        "data": "hwQIAAgAAAB3d///d/dC/ncvZvR37yT2d09G8nf3bvJ3d+/+d3f3/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsClump"
+    },
+    "tile7": {
+        "data": "hwQIAAgAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "BasicWater"
+    },
+    "tile15": {
+        "data": "hwQIAAgAAAC7/7+7+6q/u68q//8vqh/xryof8S+q///7or+7u/+/uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CaveBush"
+    },
+    "tile17": {
+        "data": "hwQIAAgAAAC7z8/Mu8/PzLvPz8y7z8/M+8zMz7vP/M+7z8zPu8/Mzw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockyCliffTop"
+    },
+    "tile18": {
+        "data": "hwQIAAgAAADMzM/MzMzPzMzMz8zPzM/Mz8zMz8/M/M/PzMzPz8zMzw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockyCliff"
+    },
+    "tile19": {
+        "data": "hwQIAAgAAAC7+/+/u8/M/PvMzPz7zMz8+8zM/PvMzPy7z8z8u/v/vw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CaveRock"
+    },
+    "tile20": {
+        "data": "hwQIAAgAAAC7/7u7+7u/u/v7+7v7+/u/+/+/v7u/+7+7v/u7u/u/uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "CaveClump"
+    },
+    "tile21": {
+        "data": "hwQIAAgAAABmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MurkyWater"
+    },
+    "tile22": {
+        "data": "hwQIAAgAAADd///f/XZn9293dfd/dWf3f3Zn9W9Xdvf9dlf33f//3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "BeachBush"
+    },
+    "tile24": {
+        "data": "hwQIAAgAAADd393d3e/u3d3f3d3d393t/d3d3d3f7t7d393d3d/d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "SandyCliffTop0"
+    },
+    "tile25": {
+        "data": "hwQIAAgAAADd3d3d3e3u3d3d3d3u3d3t3d3d3d3d7t7d3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "SandyCliff"
+    },
+    "tile26": {
+        "data": "hwQIAAgAAADd3f/f3f3+/t3v7//d/+///e7+/v3u/v797v7+3f//3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "BeachRock"
+    },
+    "tile27": {
+        "data": "hwQIAAgAAADd/93d/bvf3f37+939+/vf/f+/392/+9/dv/vd3f3f3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "BeachClump"
+    },
+    "tile28": {
+        "data": "hwQIAAgAAADiIiLiIu7u4u4iIi4iLiIuIuIiLiLi4uIiLu4u4iIi4g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Lava"
+    },
+    "tile23": {
+        "data": "hwQIAAgAAADd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "SandyGround"
+    },
+    "tile16": {
+        "data": "hwQIAAgAAADLu8u7y7vLu8u7y7zLu8u7u8u7u7vLu7u7zLu7u8u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockyGround"
+    },
+    "tile29": {
+        "data": "hwQIAAgAAAC7+7+7//v2u2+/b7/79vb2+/b29m+/b7//+/a7u/u/uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MountainBush"
+    },
+    "tile30": {
+        "data": "hwQIAAgAAAC7u7u/u7v7/Lu7z/y7u8/8u7vP/Lu7z/y7u/v8u7u7vw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MountainRock"
+    },
+    "tile31": {
+        "data": "hwQIAAgAAAC7u7u7u7u7u/v/u7u/sf+7HxF//7+x//f7/7v/u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MountainClump"
+    },
+    "tile32": {
+        "data": "hwQIAAgAAADd3d3d3f3//91/F/f9F3f3/Xd38d1/cffd/f//3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "DesertBush"
+    },
+    "tile33": {
+        "data": "hwQIAAgAAADd///d/VVV318VVfVfUVX1X1VV9V9VVfX9VVXf3f//3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "DesertRock"
+    },
+    "tile34": {
+        "data": "hwQIAAgAAADd3d3d3f3/3d1vZv/99m/2b/b29v1vZv/d/f//3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "DesertClump"
+    },
+    "tile35": {
+        "data": "hwQIAAgAAADu/v/u7l9V//7d3fXuX1X9/t3d9f5VVf3u393/7v7/7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MarshBush"
+    },
+    "tile36": {
+        "data": "hwQIAAgAAABVVVVVVd1VVVVVVVXdVVXdVVVVVVVV3VXdVVVVVVVVVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MarshGround"
+    },
+    "tile37": {
+        "data": "hwQIAAgAAABV7+7uVe///1Xv7u5V7+7u9e7u7lX//+5V7+7uVe/u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MarshCliffTop0"
+    },
+    "tile38": {
+        "data": "hwQIAAgAAADu7u7u7u7//+7u7u7u7u7u7u7u7v7//+7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MarshCliff"
+    },
+    "tile39": {
+        "data": "hwQIAAgAAABm9v9vZn93+/Z3u/v2t7v79ne3+/Z3+//2d7f/Zv//bw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MarshRock"
+    },
+    "tile40": {
+        "data": "hwQIAAgAAABmZmZmZmZmZmb/b//27v5mZv9vZmZmZmZmZmZmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "MarshClump"
+    },
+    "tile41": {
+        "data": "hwQIAAgAAADu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Mud"
+    },
+    "tile42": {
+        "data": "hwQIAAgAAAAR0RHR0e3R7dHt0e3t7u3uEdER0dHt0e3R7dHt7e7t7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RuinsGround"
+    },
+    "tile43": {
+        "data": "hwQIAAgAAAAR0RHR0f///9Hf3f3t3939Ed/d/dHv7v7R////7e7t7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RuinsRock"
+    },
+    "tile44": {
+        "data": "hwQIAAgAAAAR0f/R0f3d79Hf3/7t3//+EfHd/9Hv//7R////7e7t7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RuinsClump"
+    },
+    "tile45": {
+        "data": "hwQIAAgAAAB3d/9/d/dn93f3dvd3d2/3d3dv93f3dvd392f3d3f/fw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsBush0"
+    },
+    "tile46": {
+        "data": "hwQIAAgAAAB3d2d2d2Z3d3Z3d3Z3d3d3Z3dmd3d3d3dndnd3d3d3Zg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsGround0"
+    },
+    "tile47": {
+        "data": "hwQIAAgAAAB3d2d2d2Z3d3Z3d3Z3d3d3Z3dmd3d3d3dndnd3d3d3Zg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "PlainsGround1"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MDgxNDAwMGYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency8"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}

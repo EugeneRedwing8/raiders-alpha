@@ -1,0 +1,66 @@
+{
+    "name": "RAIDERS alpha0.6",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "browser-events": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-sprite-basics": "github:eugeneredwing8/arcade-sprite-basics#v1.0.1",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.2",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "sprite-scaling": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "tilemapToImage": "github:kiwiphoenix364/pxt-tilemap-image-converter#v1.0.0",
+        "BetterSettings": "github:sargedev/bettersettings#2023.5.1",
+        "color-coded-tilemap": "*",
+        "arcade-night-pallettes": "github:eugeneredwing8/arcade-night-palettes#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.56",
+        "tag": "v2.0.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2e47d3464cf6ea715ec6e630834bbe15bc2f6feb",
+        "target": "2.0.56",
+        "pxt": "11.3.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#FF66AB",
+        "#FF6200",
+        "#FFF609",
+        "#058030",
+        "#78DC52",
+        "#00348F",
+        "#4FBBC9",
+        "#8E2EC4",
+        "#8C8C8C",
+        "#636363",
+        "#FFCBB8",
+        "#A44B41",
+        "#000000"
+    ]
+}
